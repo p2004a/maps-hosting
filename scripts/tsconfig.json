@@ -1,0 +1,9 @@
+{
+  // Scripts run directly with Node.js type stripping, tsc is only a type checker.
+  "extends": ["@tsconfig/node26/tsconfig.json", "@tsconfig/node-ts/tsconfig.json"],
+  "compilerOptions": {
+    "noEmit": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true
+  }
+}

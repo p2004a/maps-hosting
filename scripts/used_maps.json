@@ -1,0 +1,8031 @@
+{
+  "generated_at": "2026-11-12T22:23:08.366Z",
+  "inputs": {
+    "replays": [
+      {
+        "file": "matches.parquet",
+        "column": "map",
+        "rows": 1574313
+      }
+    ],
+    "maps_metadata": {
+      "repo": "maps-metadata",
+      "ref": "HEAD",
+      "commit": "7953bf6e00180061f65db8255a579453fc0870c1",
+      "revisions": 435
+    }
+  },
+  "maps": [
+    {
+      "springname": "32x32 Hotstepper 0.5",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2,
+        "last_played": "2025-06-26T01:37:37.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-06-23T16:04:55.000Z",
+        "last_seen": "2025-06-25T19:59:26.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Aberdeen3v3v3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 114,
+        "last_played": "2023-06-17T18:14:36.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-03-31T15:22:36.000Z",
+        "last_seen": "2023-06-17T17:58:23.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "AcidicQuarry 5.16",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 259,
+        "last_played": "2024-07-16T08:45:02.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-03-31T15:22:36.000Z",
+        "last_seen": "2024-07-09T21:47:26.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "AcidicQuarry 5.17",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 704,
+        "last_played": "2026-11-09T12:23:45.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-07-18T08:31:32.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Adamantium_Factory_V1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2512,
+        "last_played": "2026-11-09T18:31:17.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-02-23T13:11:18.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Aethermoor Creek 1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 9017,
+        "last_played": "2026-11-10T15:25:25.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-10-21T09:00:09.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "All That Glitters Extended v1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1254,
+        "last_played": "2026-01-14T17:22:24.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-06-25T19:59:26.000Z",
+        "last_seen": "2026-01-12T23:01:24.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "All That Glitters Extended v1.0.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2229,
+        "last_played": "2026-11-10T13:24:42.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2026-01-14T17:55:56.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "All That Glitters v1.1",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 13,
+        "last_played": "2022-06-15T20:15:07.000Z"
+      }
+    },
+    {
+      "springname": "All That Glitters v1.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2744,
+        "last_played": "2023-05-01T09:55:24.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-04-30T19:11:24.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "All That Glitters v2.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1593,
+        "last_played": "2023-05-25T22:16:17.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-05-10T19:57:03.000Z",
+        "last_seen": "2023-05-10T19:57:03.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "All That Glitters v2.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 54439,
+        "last_played": "2024-05-14T19:02:18.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-05-16T22:26:47.000Z",
+        "last_seen": "2024-05-08T15:29:39.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "All That Glitters v2.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 128717,
+        "last_played": "2025-12-20T15:14:38.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-05-14T11:13:14.000Z",
+        "last_seen": "2025-12-11T18:28:29.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "All That Glitters v2.2.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 18,
+        "last_played": "2025-12-12T10:08:10.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-12-11T16:35:49.000Z",
+        "last_seen": "2025-12-11T16:35:49.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "All That Glitters v2.2.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1384,
+        "last_played": "2025-12-25T09:10:13.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-12-19T15:41:22.000Z",
+        "last_seen": "2025-12-19T20:04:38.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "All That Glitters v2.2.3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 88334,
+        "last_played": "2026-11-10T15:44:42.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-12-24T10:08:59.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "All That Glitters v3.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1719,
+        "last_played": "2025-06-05T00:39:15.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-05-31T19:00:49.000Z",
+        "last_seen": "2025-06-01T09:58:19.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "All That Simmers v1.0.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 222,
+        "last_played": "2025-06-12T23:26:42.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-06-11T15:18:10.000Z",
+        "last_seen": "2025-06-12T16:42:32.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "All That Simmers v1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 333,
+        "last_played": "2025-06-14T23:45:45.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-06-12T16:43:15.000Z",
+        "last_seen": "2025-06-12T16:43:15.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "All That Simmers v1.1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 7370,
+        "last_played": "2026-11-10T11:16:12.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-06-14T10:13:25.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "All That Smolders v1.1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 444,
+        "last_played": "2025-06-06T05:58:25.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-06-04T14:39:54.000Z",
+        "last_seen": "2025-06-04T14:39:54.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "All That Smolders v1.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 14611,
+        "last_played": "2026-11-10T12:30:07.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-06-05T19:43:03.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Altair_Crossing_V4",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2486,
+        "last_played": "2023-06-30T00:25:08.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-06-28T11:08:58.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Altair_Crossing_V4.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 14265,
+        "last_played": "2026-11-10T11:07:08.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-07-01T08:28:45.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Altair_Pass_V4",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 191,
+        "last_played": "2023-06-27T01:00:17.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-06-28T11:08:58.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Altored Divide Bar Remake 1.55",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 92,
+        "last_played": "2022-08-10T14:02:27.000Z"
+      }
+    },
+    {
+      "springname": "Altored Divide Bar Remake 1.6",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1678,
+        "last_played": "2023-12-04T22:22:03.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Altored Divide Bar Remake 1.6.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1,
+        "last_played": "2023-12-07T06:27:45.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2023-12-06T00:11:31.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Altored Divide Bar Remake 1.6.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 6059,
+        "last_played": "2026-11-10T12:32:44.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-07T10:56:32.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Ancient Bastion Remake 0.5",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 5500,
+        "last_played": "2026-11-10T13:37:08.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-02-25T22:52:40.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Ancient Vault v1.0",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 13,
+        "last_played": "2023-03-01T03:32:31.000Z"
+      }
+    },
+    {
+      "springname": "Ancient Vault v1.2",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 4,
+        "last_played": "2023-03-10T17:20:42.000Z"
+      }
+    },
+    {
+      "springname": "Ancient Vault v1.4",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1521,
+        "last_played": "2026-11-09T17:08:14.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Angel Crossing 1.5",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1186,
+        "last_played": "2023-12-04T20:48:24.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Angel Crossing 1.5.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 6150,
+        "last_played": "2026-11-10T03:04:22.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Archsimkats_Valley_V1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 6205,
+        "last_played": "2026-11-10T05:06:07.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Argent Strata 1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 58,
+        "last_played": "2026-03-10T21:20:01.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2026-03-10T01:41:57.000Z",
+        "last_seen": "2026-03-10T18:16:38.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Argent Strata 1.0.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 479,
+        "last_played": "2026-03-31T00:11:18.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2026-03-10T18:18:26.000Z",
+        "last_seen": "2026-03-28T19:49:03.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Argent Strata 1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2680,
+        "last_played": "2026-11-10T14:42:22.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2026-03-30T01:34:35.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Ascendancy v1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 90,
+        "last_played": "2023-06-09T20:05:11.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-06-08T09:55:45.000Z",
+        "last_seen": "2023-06-08T09:55:45.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Ascendancy v1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 487,
+        "last_played": "2023-06-17T22:29:54.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-06-09T19:37:17.000Z",
+        "last_seen": "2023-06-09T19:37:17.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Ascendancy v2.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 970,
+        "last_played": "2023-07-24T17:24:18.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-06-17T15:28:17.000Z",
+        "last_seen": "2023-07-24T18:23:57.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Ascendancy v2.1",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 1,
+        "last_played": "2023-07-24T00:46:43.000Z"
+      }
+    },
+    {
+      "springname": "Ascendancy v2.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 4758,
+        "last_played": "2026-11-10T04:28:58.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-07-24T18:24:10.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Asteroid_Mines_V2",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 18,
+        "last_played": "2022-07-21T13:08:06.000Z"
+      }
+    },
+    {
+      "springname": "Asteroid_Mines_V2.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 55,
+        "last_played": "2023-01-24T03:21:38.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-08-17T10:58:28.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Asteroid_Mines_V3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 4680,
+        "last_played": "2026-11-10T13:54:08.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-08-19T12:50:21.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Aurelia v3",
+      "sources": [
+        "maps-metadata"
+      ],
+      "maps_metadata": {
+        "first_seen": "2024-05-25T21:37:25.000Z",
+        "last_seen": "2024-05-25T21:37:37.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Aurelia v4",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 524,
+        "last_played": "2024-09-18T16:19:35.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-05-30T13:03:37.000Z",
+        "last_seen": "2024-09-18T08:16:15.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Aurelia v4.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 7301,
+        "last_played": "2026-11-10T13:27:56.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-09-18T14:21:40.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Avalanche 3.4",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 7385,
+        "last_played": "2026-11-10T15:33:39.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Azurite Shores 1.0.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 906,
+        "last_played": "2026-11-10T06:00:06.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2026-01-12T23:01:24.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Azurite Shores 1.01",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1402,
+        "last_played": "2026-01-13T18:35:45.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-12T17:09:26.000Z",
+        "last_seen": "2026-01-11T03:01:54.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "BarR 1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 3589,
+        "last_played": "2026-11-10T07:44:32.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Baryon Tar Lake v1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 15,
+        "last_played": "2023-11-21T19:01:31.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-11-19T14:27:44.000Z",
+        "last_seen": "2023-11-21T10:21:25.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Baryon Tar Lake v1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2961,
+        "last_played": "2026-11-10T15:07:07.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-11-21T10:21:58.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Bismuth Valley v1.0",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 10,
+        "last_played": "2022-07-15T08:22:06.000Z"
+      }
+    },
+    {
+      "springname": "Bismuth Valley v2.0",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 4,
+        "last_played": "2022-07-19T19:41:46.000Z"
+      }
+    },
+    {
+      "springname": "Bismuth Valley v2.1",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 16,
+        "last_played": "2022-07-30T04:23:00.000Z"
+      }
+    },
+    {
+      "springname": "Bismuth Valley v2.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 4270,
+        "last_played": "2023-12-03T10:32:08.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-11-29T19:57:40.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Bismuth Valley v2.3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1,
+        "last_played": "2023-12-02T12:50:25.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-02T12:06:43.000Z",
+        "last_seen": "2023-12-02T13:17:55.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Bismuth Valley v2.3.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 9,
+        "last_played": "2023-12-03T11:47:26.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-02T13:49:21.000Z",
+        "last_seen": "2023-12-03T06:55:49.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Bismuth Valley v2.4",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 5,
+        "last_played": "2023-12-04T18:51:26.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-03T11:37:33.000Z",
+        "last_seen": "2023-12-03T11:37:33.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Bismuth Valley v2.4.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 6231,
+        "last_played": "2026-11-10T09:48:46.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-04T11:55:59.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "BlackStar_v2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1050,
+        "last_played": "2026-11-09T02:41:37.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Blindside Remake v1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1345,
+        "last_played": "2026-11-09T08:44:24.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-05-31T14:06:29.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Boreal Falls 1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 726,
+        "last_played": "2026-03-28T17:49:48.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2026-02-17T19:10:00.000Z",
+        "last_seen": "2026-03-19T16:51:54.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Boreal Falls 1.0.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1133,
+        "last_played": "2026-11-10T07:54:40.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2026-03-28T19:49:03.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Boulder_Beach_V1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2377,
+        "last_played": "2026-11-10T05:45:30.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Calamity 1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 170,
+        "last_played": "2023-06-15T16:36:01.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-06-17T17:58:23.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Callisto v3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 107,
+        "last_played": "2023-11-25T16:26:57.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Callisto v3.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 708,
+        "last_played": "2026-11-09T02:43:32.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Canis River v1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 8,
+        "last_played": "2024-01-15T05:07:00.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-01-14T15:05:05.000Z",
+        "last_seen": "2024-01-14T15:12:06.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Canis River v1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1488,
+        "last_played": "2024-04-15T00:00:37.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-01-14T18:54:30.000Z",
+        "last_seen": "2024-04-14T20:36:15.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Canis River v1.3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1417,
+        "last_played": "2024-07-22T17:53:12.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-04-14T20:38:16.000Z",
+        "last_seen": "2024-07-21T10:48:53.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Canis River v1.4",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 15257,
+        "last_played": "2026-11-10T15:46:12.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-07-21T20:38:15.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Cape_Violet_V1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1827,
+        "last_played": "2026-11-10T14:01:48.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Carrot Mountains v1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2096,
+        "last_played": "2024-06-01T14:04:30.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2024-05-31T14:06:29.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Carrot Mountains v2.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 3007,
+        "last_played": "2026-11-10T10:02:30.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-06-01T18:00:37.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Ceasefire 1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 224,
+        "last_played": "2026-10-03T19:30:42.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2026-09-26T19:19:58.000Z",
+        "last_seen": "2026-10-01T22:05:50.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Ceasefire 1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 292,
+        "last_played": "2026-11-10T15:34:54.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2026-10-03T17:52:37.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Cells 1.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2808,
+        "last_played": "2026-11-10T14:55:28.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-12-03T09:40:12.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Center Command BAR v1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 16054,
+        "last_played": "2026-11-10T14:12:56.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-05-10T19:57:03.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Centerrock Remake 1.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1618,
+        "last_played": "2026-11-10T06:53:19.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Centerrock Remake Dry 1.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 98,
+        "last_played": "2023-06-15T18:27:21.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-06-17T17:58:23.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Cervino v1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 255,
+        "last_played": "2023-06-15T04:04:04.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-06-17T17:58:23.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Charlie In The Hills Remake v1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 32,
+        "last_played": "2023-07-19T18:22:32.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-07-16T09:24:47.000Z",
+        "last_seen": "2023-07-16T09:24:47.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Charlie In The Hills Remake v1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1683,
+        "last_played": "2025-08-22T13:21:51.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-07-19T12:10:22.000Z",
+        "last_seen": "2025-08-12T22:33:42.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Charlie In The Hills Remake v1.1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1961,
+        "last_played": "2026-11-10T11:18:11.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-08-21T20:24:37.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Cirolata 1.02",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 5624,
+        "last_played": "2026-04-23T19:40:17.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-04-23T18:25:37.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Cirolata 1.03",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1092,
+        "last_played": "2026-11-08T20:45:04.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2026-04-23T18:26:46.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Claymore 3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 39,
+        "last_played": "2024-11-09T01:12:27.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-11-02T09:58:18.000Z",
+        "last_seen": "2024-11-03T13:14:43.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Claymore 3.0.3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 369,
+        "last_played": "2026-01-11T10:02:49.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-11-08T22:51:38.000Z",
+        "last_seen": "2026-01-11T02:50:47.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Claymore 3.0.4",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 447,
+        "last_played": "2026-11-09T15:40:25.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2026-01-11T03:01:54.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Cloud9_V2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2719,
+        "last_played": "2026-11-08T21:36:26.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Coast To Coast BAR v1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2862,
+        "last_played": "2026-11-09T08:54:03.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-07-01T08:29:15.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Coastlines_Dry_V2.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 625,
+        "last_played": "2023-12-06T01:22:32.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Coastlines_Dry_V2.2.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 3218,
+        "last_played": "2026-11-09T23:40:34.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Colorado_V2 1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1875,
+        "last_played": "2026-11-10T00:05:47.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Comet Catcher Remake 1.8",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 42231,
+        "last_played": "2026-11-10T14:03:05.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Copper Hill v1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 710,
+        "last_played": "2023-12-04T04:10:57.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Copper Hill v1.0.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2426,
+        "last_played": "2026-11-10T03:17:28.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Crater Islands Remake v1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 123,
+        "last_played": "2023-12-03T21:18:10.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Crater Islands Remake v1.0.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 730,
+        "last_played": "2026-11-10T13:46:44.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Crescent_Bay_V2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2004,
+        "last_played": "2026-11-10T13:39:56.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Crimson Bay v1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 11,
+        "last_played": "2023-11-12T00:19:10.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-11-10T19:51:28.000Z",
+        "last_seen": "2023-11-11T16:46:53.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Crimson Bay v1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 56,
+        "last_played": "2024-02-03T02:39:54.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-11-12T17:02:32.000Z",
+        "last_seen": "2024-02-06T10:32:10.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Crimson Bay v1.1a",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 684,
+        "last_played": "2026-11-08T16:11:51.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-02-06T12:52:05.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Crubick Plains BAR v1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 3947,
+        "last_played": "2026-11-10T11:27:50.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-06-18T19:42:23.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Crystallized Plains 1.01",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 739,
+        "last_played": "2023-11-20T01:46:28.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-11-20T23:41:05.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Crystallized Plains 1.02",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 481,
+        "last_played": "2024-09-02T03:03:00.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-11-21T10:21:25.000Z",
+        "last_seen": "2024-09-03T22:38:41.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Crystallized Plains 1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 4872,
+        "last_played": "2026-11-10T15:05:29.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-09-03T22:38:52.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "DSD 8 Way 1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1348,
+        "last_played": "2026-11-09T22:40:30.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "DSDR 4.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2954,
+        "last_played": "2023-10-12T21:11:17.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T20:14:31.000Z",
+        "last_seen": "2023-10-07T14:36:24.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "DWorld_V3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 395,
+        "last_played": "2023-05-09T08:14:42.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-04-30T19:11:24.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "DWorld_V4",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 6609,
+        "last_played": "2026-11-09T19:43:50.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-05-10T19:57:03.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Darkside v3.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 5649,
+        "last_played": "2026-11-10T14:54:48.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-05-10T19:57:03.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Death Valley v1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1110,
+        "last_played": "2023-12-05T18:47:43.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Death Valley v1.0.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 6501,
+        "last_played": "2026-11-10T12:23:49.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Deeploria Fields v1.0",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 3,
+        "last_played": "2022-07-04T09:52:25.000Z"
+      }
+    },
+    {
+      "springname": "Deeploria Fields v1.2",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 5,
+        "last_played": "2022-07-16T03:34:35.000Z"
+      }
+    },
+    {
+      "springname": "Deeploria Fields v1.3",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 7,
+        "last_played": "2022-08-05T18:16:57.000Z"
+      }
+    },
+    {
+      "springname": "Deeploria Fields v1.5",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 189,
+        "last_played": "2023-12-03T18:15:53.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Deeploria Fields v1.5.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1283,
+        "last_played": "2026-11-09T00:29:40.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Delta Siege Dry v5",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 4,
+        "last_played": "2023-08-01T18:17:21.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-07-31T18:02:33.000Z",
+        "last_seen": "2023-07-31T18:02:33.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Delta Siege Dry v5.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 6,
+        "last_played": "2023-08-02T09:02:45.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-08-01T18:05:44.000Z",
+        "last_seen": "2023-08-01T18:05:44.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Delta Siege Dry v5.3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 128,
+        "last_played": "2023-08-22T18:36:03.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-08-02T14:34:01.000Z",
+        "last_seen": "2023-08-19T12:50:21.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Delta Siege Dry v5.5",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 5,
+        "last_played": "2023-08-23T18:43:16.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-08-22T19:53:10.000Z",
+        "last_seen": "2023-08-22T19:53:10.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Delta Siege Dry v5.7",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1098,
+        "last_played": "2024-03-16T04:40:06.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-08-23T18:52:17.000Z",
+        "last_seen": "2024-03-13T18:35:26.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Delta Siege Dry v5.7.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 4758,
+        "last_played": "2026-11-10T10:25:29.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-03-16T10:15:22.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "DeltaSiegeDry",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 1,
+        "last_played": "2022-08-27T05:11:21.000Z"
+      }
+    },
+    {
+      "springname": "Desert 3.25",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 6,
+        "last_played": "2022-08-09T13:43:25.000Z"
+      }
+    },
+    {
+      "springname": "DesertTriad",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 297,
+        "last_played": "2023-06-17T21:41:07.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-06-17T17:58:23.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Desolation v1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1164,
+        "last_played": "2023-12-05T00:48:18.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Desolation v1.0.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 4718,
+        "last_played": "2026-11-09T19:34:44.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Devil's Postpiles 1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 51,
+        "last_played": "2025-10-02T23:35:42.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-09-15T20:53:37.000Z",
+        "last_seen": "2025-09-20T15:05:36.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Devil's Postpiles 1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 47,
+        "last_played": "2025-10-08T01:39:29.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-10-03T06:41:07.000Z",
+        "last_seen": "2025-10-03T06:41:07.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Devil's Postpiles 1.1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1863,
+        "last_played": "2026-11-10T15:10:37.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-10-07T19:53:19.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Digsite 2.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2099,
+        "last_played": "2026-11-10T02:42:05.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2026-02-12T01:09:56.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Ditched_V1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 4108,
+        "last_played": "2026-11-10T02:05:52.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Downs_of_Destruction_V2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1365,
+        "last_played": "2026-11-08T16:00:16.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Eclipsed 0.8.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 308,
+        "last_played": "2024-12-12T16:14:43.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-10-01T03:34:23.000Z",
+        "last_seen": "2024-12-10T18:49:40.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Eclipsed 0.9.5",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 55,
+        "last_played": "2024-12-17T05:38:58.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-12-11T21:35:55.000Z",
+        "last_seen": "2024-12-11T21:35:55.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Eclipsed 0.9.6",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 7,
+        "last_played": "2024-12-18T22:58:59.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-12-17T00:53:34.000Z",
+        "last_seen": "2024-12-17T00:53:34.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Eclipsed 0.9.7",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 71,
+        "last_played": "2025-01-12T21:16:19.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-12-18T18:08:29.000Z",
+        "last_seen": "2025-01-03T12:05:40.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Eclipsed 0.9.8",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1702,
+        "last_played": "2026-11-09T03:31:41.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-01-14T07:15:08.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Eight Horses 1.0",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 44,
+        "last_played": "2023-03-04T14:00:15.000Z"
+      }
+    },
+    {
+      "springname": "Eight Horses 1.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 6068,
+        "last_played": "2026-11-10T06:47:24.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "EmainMacha Remake 2.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 637,
+        "last_played": "2023-12-05T02:05:24.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "EmainMacha Remake 2.1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2291,
+        "last_played": "2026-11-10T04:09:32.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Entrenched_Plains_V2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 3297,
+        "last_played": "2026-11-10T08:06:41.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Erebos Lakes v1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 3038,
+        "last_played": "2026-11-09T23:41:45.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T13:07:41.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Esker Creek 1.3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 4471,
+        "last_played": "2026-11-10T10:46:40.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-04-16T17:05:24.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Eternal Consequences 1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 273,
+        "last_played": "2026-04-06T03:42:02.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2026-03-30T08:48:49.000Z",
+        "last_seen": "2026-03-30T08:48:49.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Eternal Consequences 1.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 4699,
+        "last_played": "2026-11-10T15:40:23.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2026-04-05T18:02:57.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Evad River Confluence_V2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 3726,
+        "last_played": "2026-11-10T03:24:47.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Eye Of Horus 1.7",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2133,
+        "last_played": "2023-12-05T18:50:37.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Eye Of Horus 1.7.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 7216,
+        "last_played": "2026-11-10T10:12:53.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Factions and Factious 0.9",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1171,
+        "last_played": "2026-11-07T04:13:55.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-05-31T09:57:45.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Failed Negotiations 0.9",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 130,
+        "last_played": "2023-10-04T12:48:56.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-09-27T08:32:42.000Z",
+        "last_seen": "2023-10-02T17:20:07.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Failed Negotiations 1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 4955,
+        "last_played": "2026-11-10T14:02:24.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-10-02T19:35:36.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Fallendell_V4",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 5282,
+        "last_played": "2026-11-09T13:55:57.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Faster Than Light 1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 9259,
+        "last_played": "2026-11-10T01:00:35.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-05-10T19:57:03.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Feast of Hades 0.9",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 14,
+        "last_played": "2024-04-27T21:49:14.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-04-25T22:21:57.000Z",
+        "last_seen": "2024-04-26T20:23:36.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Feast of Hades 1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 96,
+        "last_played": "2024-05-01T22:15:29.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-04-27T08:47:35.000Z",
+        "last_seen": "2024-04-27T08:47:35.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Feast of Hades 1.0.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 6727,
+        "last_played": "2026-11-10T15:48:37.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-04-30T23:01:11.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Flats and Forests Remake 1.1",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 21,
+        "last_played": "2022-07-04T06:49:20.000Z"
+      }
+    },
+    {
+      "springname": "Flats and Forests v2.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 3967,
+        "last_played": "2023-12-06T18:35:06.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Flats and Forests v2.1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 765,
+        "last_played": "2024-06-01T21:19:54.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2024-06-01T18:00:37.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Flats and Forests v2.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 8052,
+        "last_played": "2026-11-10T15:28:13.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-06-01T18:00:47.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Flooded_Valley_V5",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1401,
+        "last_played": "2026-11-10T04:45:15.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "FolsomDamR 1.16",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1697,
+        "last_played": "2024-09-08T23:59:10.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2024-09-03T22:38:52.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "FolsomDamR 1.17",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 4225,
+        "last_played": "2026-11-10T14:59:36.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-09-09T10:33:11.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Forge v1.2",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 9,
+        "last_played": "2022-06-30T20:18:42.000Z"
+      }
+    },
+    {
+      "springname": "Forge v1.3",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 20,
+        "last_played": "2022-07-30T14:49:52.000Z"
+      }
+    },
+    {
+      "springname": "Forge v1.4",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2528,
+        "last_played": "2023-07-03T10:45:09.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-07-02T08:46:09.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Forge v2.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 15,
+        "last_played": "2023-07-03T23:19:39.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-07-03T11:02:50.000Z",
+        "last_seen": "2023-07-03T13:30:33.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Forge v2.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 57,
+        "last_played": "2023-07-06T10:26:42.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-07-03T22:17:28.000Z",
+        "last_seen": "2023-07-05T18:48:41.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Forge v2.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 31,
+        "last_played": "2023-07-07T15:19:28.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-07-06T09:42:56.000Z",
+        "last_seen": "2023-07-06T09:42:56.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Forge v2.3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 6707,
+        "last_played": "2026-11-10T06:10:36.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-07-07T14:20:27.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Frozen_Ford_V2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2249,
+        "last_played": "2026-11-10T10:22:51.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Full Metal Plate 1.3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2,
+        "last_played": "2023-12-21T14:58:44.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-21T08:42:23.000Z",
+        "last_seen": "2023-12-21T08:42:23.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Full Metal Plate 1.4",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 9,
+        "last_played": "2023-12-22T12:14:25.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-21T15:02:23.000Z",
+        "last_seen": "2023-12-21T15:02:23.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Full Metal Plate 1.5",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 279,
+        "last_played": "2024-01-30T20:04:40.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-22T11:11:46.000Z",
+        "last_seen": "2024-01-27T23:36:03.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Full Metal Plate 1.6",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 20,
+        "last_played": "2024-02-06T03:26:56.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-01-31T16:36:10.000Z",
+        "last_seen": "2024-01-31T16:36:10.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Full Metal Plate 1.7",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 31534,
+        "last_played": "2026-11-10T15:05:31.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-02-05T09:47:47.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Gasbag Grabens 0.9.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 836,
+        "last_played": "2025-04-18T02:20:47.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-02-14T23:29:22.000Z",
+        "last_seen": "2025-04-10T21:21:29.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Gasbag Grabens 1.0.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 5,
+        "last_played": "2025-04-18T16:34:52.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-04-17T20:09:21.000Z",
+        "last_seen": "2025-04-17T20:09:21.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Gasbag Grabens 1.0.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 542,
+        "last_played": "2025-07-09T19:53:08.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-04-18T18:48:08.000Z",
+        "last_seen": "2025-06-28T07:33:51.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Gasbag Grabens 1.1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 3504,
+        "last_played": "2026-11-10T14:19:50.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-07-09T20:52:31.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Gecko Isle 1.1",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 33,
+        "last_played": "2022-12-08T06:48:16.000Z"
+      }
+    },
+    {
+      "springname": "Gecko Isle Remake v1.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1177,
+        "last_played": "2023-12-05T21:56:14.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Gecko Isle Remake v1.2.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 10614,
+        "last_played": "2026-11-10T12:29:29.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Geyser Plains BAR v1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 15,
+        "last_played": "2023-06-19T10:47:40.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-06-17T17:58:23.000Z",
+        "last_seen": "2023-06-19T16:58:49.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Geyser Plains BAR v1.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 225,
+        "last_played": "2023-12-05T15:20:01.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-06-19T16:58:58.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Geyser Plains BAR v1.2.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1250,
+        "last_played": "2026-11-09T23:02:20.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Ghenna Rising 4.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 282,
+        "last_played": "2023-12-05T20:02:37.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Ghenna Rising 4.0.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1390,
+        "last_played": "2026-11-10T03:01:45.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Glacial Gap v1.01",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 3,
+        "last_played": "2023-11-29T20:06:14.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-11-29T16:14:51.000Z",
+        "last_seen": "2023-11-29T16:14:51.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Glacial Gap v1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 5643,
+        "last_played": "2026-11-10T06:28:02.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-11-29T19:57:40.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Glacier Pass 1.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1848,
+        "last_played": "2026-11-09T22:14:34.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Gods of War Remake v1.3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 398,
+        "last_played": "2026-11-05T02:40:37.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-05-10T19:57:03.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Great Divide V1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 25506,
+        "last_played": "2026-11-10T15:27:41.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Greenest Fields 1.3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 357,
+        "last_played": "2023-12-05T21:38:57.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Greenest Fields 1.3.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1600,
+        "last_played": "2026-11-10T08:03:26.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Greenhaven BAR v1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2,
+        "last_played": "2023-06-20T21:31:38.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-06-19T16:58:49.000Z",
+        "last_seen": "2023-06-20T20:41:55.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Greenhaven BAR v1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2,
+        "last_played": "2023-06-22T03:46:50.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-06-20T21:41:58.000Z",
+        "last_seen": "2023-06-22T15:05:36.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Greenhaven BAR v1.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1972,
+        "last_played": "2026-11-09T06:18:07.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-06-23T11:51:37.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Hades Ponds 0.7",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 875,
+        "last_played": "2024-01-28T15:27:48.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2024-01-23T08:04:55.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Hades Ponds 1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 561,
+        "last_played": "2024-04-15T05:46:54.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-01-27T23:36:03.000Z",
+        "last_seen": "2024-04-10T16:17:39.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Hades Ponds 1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 8724,
+        "last_played": "2026-11-10T09:33:59.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-04-14T20:35:47.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Heartbreak Hill v2",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 1,
+        "last_played": "2023-01-04T18:00:54.000Z"
+      }
+    },
+    {
+      "springname": "Heartbreak Hill v4",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 340,
+        "last_played": "2023-12-05T00:09:11.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Heartbreak Hill v4.0.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 4237,
+        "last_played": "2026-11-10T08:42:37.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Hellas Basin v1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 200,
+        "last_played": "2024-04-23T19:14:46.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-04-21T18:16:53.000Z",
+        "last_seen": "2024-04-23T07:35:53.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Hellas Basin v1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 115,
+        "last_played": "2024-04-25T09:18:36.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-04-23T17:26:56.000Z",
+        "last_seen": "2024-04-23T17:26:56.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Hellas Basin v1.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 755,
+        "last_played": "2024-05-05T17:05:43.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-04-24T20:11:50.000Z",
+        "last_seen": "2024-05-04T12:14:27.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Hellas Basin v1.3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 51,
+        "last_played": "2024-05-05T19:52:45.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-05-04T17:32:06.000Z",
+        "last_seen": "2024-05-05T14:54:47.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Hellas Basin v1.4",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 4455,
+        "last_played": "2026-11-10T13:22:14.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-05-05T20:01:48.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Hera Planum 0.9",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 27,
+        "last_played": "2024-05-04T10:18:55.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-05-03T08:45:14.000Z",
+        "last_seen": "2024-05-03T08:45:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Hera Planum 0.9.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1461,
+        "last_played": "2026-11-10T11:18:52.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-01-14T17:52:15.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Hera Planum 0.91",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 357,
+        "last_played": "2025-01-12T20:39:08.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-05-04T12:14:27.000Z",
+        "last_seen": "2025-01-14T17:49:12.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Hide and Seek 2.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 20,
+        "last_played": "2024-02-08T17:27:58.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-02-06T19:09:17.000Z",
+        "last_seen": "2024-02-06T19:09:17.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Hide and Seek 2.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 152,
+        "last_played": "2024-03-10T19:31:23.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-02-08T17:16:58.000Z",
+        "last_seen": "2024-03-10T14:19:29.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Hide and Seek 2.2.3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1439,
+        "last_played": "2026-11-09T19:42:06.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-03-11T22:15:29.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Hide and Seek 2.21",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 7,
+        "last_played": "2024-03-11T20:38:49.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-03-10T19:35:34.000Z",
+        "last_seen": "2024-03-10T19:35:34.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "High Noon Remake 1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 3758,
+        "last_played": "2026-11-10T12:48:44.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-05-10T19:57:03.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Hooked 1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 797,
+        "last_played": "2023-12-05T12:14:38.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Hooked 1.1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 5113,
+        "last_played": "2026-11-10T11:42:15.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Hotlips Remake v3.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 579,
+        "last_played": "2023-12-05T04:30:10.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Hotlips Remake v3.1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 472,
+        "last_played": "2025-03-28T03:10:09.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2025-03-23T10:13:32.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Hotlips Remake v3.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 692,
+        "last_played": "2026-11-10T14:15:13.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-03-28T16:54:34.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Hotlips_Redux_V2",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 10,
+        "last_played": "2022-07-07T19:24:03.000Z"
+      }
+    },
+    {
+      "springname": "Hotstepper 5 1.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 242,
+        "last_played": "2023-12-03T23:22:18.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Hotstepper 5 1.2.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1174,
+        "last_played": "2026-11-10T09:19:36.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Houses of Tripolis 1.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 234,
+        "last_played": "2026-03-12T15:45:29.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2026-03-08T05:37:12.000Z",
+        "last_seen": "2026-03-10T18:18:26.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Houses of Tripolis 1.3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 3075,
+        "last_played": "2026-11-10T11:36:07.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2026-03-12T17:33:15.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Hyperion Shale 1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1435,
+        "last_played": "2026-01-11T03:51:24.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-01-11T15:17:52.000Z",
+        "last_seen": "2026-01-07T11:10:52.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Hyperion Shale 1.0.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 505,
+        "last_played": "2026-04-23T18:42:22.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2026-01-11T02:45:18.000Z",
+        "last_seen": "2026-04-23T17:50:15.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Hyperion Shale 1.0.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 811,
+        "last_played": "2026-11-10T00:47:27.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2026-04-23T18:25:37.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Ice Scream v1.2",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 5,
+        "last_played": "2022-08-05T17:50:35.000Z"
+      }
+    },
+    {
+      "springname": "Ice Scream v2.0",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 11,
+        "last_played": "2022-08-08T20:16:48.000Z"
+      }
+    },
+    {
+      "springname": "Ice Scream v2.1",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 207,
+        "last_played": "2023-02-20T20:26:08.000Z"
+      }
+    },
+    {
+      "springname": "Ice Scream v2.4",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 659,
+        "last_played": "2023-04-18T20:04:47.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-04-30T19:11:24.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Ice Scream v2.5",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1558,
+        "last_played": "2023-12-05T19:09:49.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-05-10T19:57:03.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Ice Scream v2.5.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1848,
+        "last_played": "2026-05-14T01:11:52.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2026-05-13T19:27:22.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Ice Scream v2.5.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 499,
+        "last_played": "2026-11-10T03:35:48.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2026-05-13T19:27:30.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Incandescence Remake 3.3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 129,
+        "last_played": "2023-12-03T17:41:48.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Incandescence Remake 3.3.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1292,
+        "last_played": "2026-11-07T19:26:59.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Industrial_Revolution_V2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1436,
+        "last_played": "2026-11-10T05:35:32.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Into Battle Redux v3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 853,
+        "last_played": "2023-12-01T11:55:59.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Into Battle Redux v3.0.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2256,
+        "last_played": "2026-11-09T19:15:05.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Iron_Isle_V1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2959,
+        "last_played": "2026-11-09T20:53:04.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Isidis crack 1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1564,
+        "last_played": "2024-04-07T19:21:33.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-07-04T16:08:12.000Z",
+        "last_seen": "2024-04-06T22:03:01.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Isidis crack 1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 20244,
+        "last_played": "2026-11-10T15:34:26.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-04-06T22:03:11.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Jade Empress 1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 258,
+        "last_played": "2023-09-06T20:37:11.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-07-05T18:48:41.000Z",
+        "last_seen": "2023-09-02T11:39:07.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Jade Empress 1.11",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 24,
+        "last_played": "2023-09-15T21:27:48.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-09-02T11:30:09.000Z",
+        "last_seen": "2023-09-16T11:04:11.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Jade Empress 1.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 126,
+        "last_played": "2023-11-17T18:42:29.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-09-16T11:27:28.000Z",
+        "last_seen": "2023-11-17T22:23:07.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Jade Empress 1.3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 207,
+        "last_played": "2024-03-01T01:20:20.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-11-18T14:59:45.000Z",
+        "last_seen": "2024-02-25T22:52:40.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Jade Empress 1.41",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1537,
+        "last_played": "2026-11-09T10:26:01.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-03-01T08:25:31.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Kings Assault v1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 20,
+        "last_played": "2023-12-10T07:32:46.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-08T16:48:41.000Z",
+        "last_seen": "2023-12-10T09:01:55.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Kings Assault v1.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 36,
+        "last_played": "2023-12-18T20:36:38.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-10T10:49:23.000Z",
+        "last_seen": "2023-12-12T17:09:26.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Kings Assault v1.3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 3455,
+        "last_played": "2026-11-10T05:15:55.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-18T07:51:04.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "KnockoutR 1.5",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 961,
+        "last_played": "2026-11-10T05:34:09.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Kolmogorov Remake 3.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 403,
+        "last_played": "2023-12-06T02:32:43.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Kolmogorov Remake 3.0.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2137,
+        "last_played": "2026-11-10T13:48:28.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Koom Valley 3 3.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 9991,
+        "last_played": "2026-11-10T12:08:37.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Krakatoa_V1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 247,
+        "last_played": "2023-05-23T00:58:54.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-05-19T09:41:11.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Krakatoa_V2.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1493,
+        "last_played": "2026-11-09T22:22:38.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-05-24T10:10:40.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "LV412 1.3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 128,
+        "last_played": "2025-01-10T22:32:29.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2025-01-14T17:52:15.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "LV412 1.3.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 333,
+        "last_played": "2026-11-08T06:44:35.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-01-14T18:00:59.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Lake Carne dry v1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 55,
+        "last_played": "2023-06-13T18:07:25.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-06-17T17:58:23.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Lake Carne v2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 83,
+        "last_played": "2023-12-01T00:06:45.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Lake Carne v2.0.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 879,
+        "last_played": "2026-11-10T12:23:32.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Lavender Bender v2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2196,
+        "last_played": "2026-11-10T13:55:40.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-08-17T10:58:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Lightside Darkside v1.1",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 10,
+        "last_played": "2022-07-26T14:13:01.000Z"
+      }
+    },
+    {
+      "springname": "Lightside Darkside v2.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 326,
+        "last_played": "2023-04-13T02:32:19.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-04-30T19:11:24.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Mariposa Island v2.4",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 338,
+        "last_played": "2023-12-05T05:20:59.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Mariposa Island v2.4.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1928,
+        "last_played": "2026-11-09T20:08:50.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Medit_V7",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 19,
+        "last_played": "2023-01-24T21:30:20.000Z"
+      }
+    },
+    {
+      "springname": "Mediterraneum_V1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 4161,
+        "last_played": "2026-11-09T00:15:37.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Melting Glacier v1.0",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 6,
+        "last_played": "2022-08-12T18:47:22.000Z"
+      }
+    },
+    {
+      "springname": "Melting Glacier v1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 148,
+        "last_played": "2023-12-01T23:30:04.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Melting Glacier v1.1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 685,
+        "last_played": "2026-05-13T19:49:38.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2026-05-10T20:20:44.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Melting Glacier v1.1.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 209,
+        "last_played": "2026-11-10T10:29:00.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2026-05-13T19:27:22.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Mescaline_V2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1813,
+        "last_played": "2026-11-10T09:31:47.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Mithril Mountain v2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 941,
+        "last_played": "2023-12-03T21:12:41.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Mithril Mountain v2.0.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 5609,
+        "last_played": "2026-11-10T00:23:53.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "MoonQ20XR2 2.5",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1068,
+        "last_played": "2026-11-10T05:11:19.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Moonshine Run v1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 20,
+        "last_played": "2024-06-07T22:12:29.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-06-06T11:33:19.000Z",
+        "last_seen": "2024-06-07T09:43:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Moonshine Run v1.0.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 3228,
+        "last_played": "2026-11-10T09:51:58.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-06-07T21:45:02.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Neurope_Remake 4.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 242,
+        "last_played": "2023-12-03T12:22:28.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T20:14:31.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Neurope_Remake 4.2.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1076,
+        "last_played": "2026-11-08T11:39:48.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Nine_Metal_Islands_V1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2445,
+        "last_played": "2026-11-09T00:17:47.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Nuclear Winter Bar 1.4",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 4387,
+        "last_played": "2026-11-10T08:55:28.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Odderon Strandflats v1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 8,
+        "last_played": "2023-11-18T08:23:20.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-11-15T21:34:09.000Z",
+        "last_seen": "2023-11-17T15:50:54.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Odderon Strandflats v1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 415,
+        "last_played": "2026-11-06T12:16:17.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-11-17T17:16:44.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Omega Valley V0.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 136,
+        "last_played": "2023-11-12T23:34:06.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-11-12T17:02:32.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Omega Valley V1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 63,
+        "last_played": "2024-01-04T12:40:18.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-11-13T14:59:54.000Z",
+        "last_seen": "2024-01-02T11:24:38.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Omega Valley V1.01",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2760,
+        "last_played": "2026-11-10T10:47:52.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-01-05T08:52:23.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Onyx Cauldron 2.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 82,
+        "last_played": "2023-10-03T00:31:02.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-07-04T11:51:03.000Z",
+        "last_seen": "2023-07-26T22:36:50.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Onyx Cauldron 2.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 54,
+        "last_played": "2023-10-12T20:53:50.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-07-28T20:58:02.000Z",
+        "last_seen": "2023-10-13T05:29:12.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Onyx Cauldron 2.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 46,
+        "last_played": "2023-12-03T10:54:37.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-10-14T07:51:08.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Onyx Cauldron 2.2.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1342,
+        "last_played": "2025-02-06T04:03:05.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2025-02-02T20:02:13.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Onyx Cauldron 2.2.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 5488,
+        "last_played": "2026-11-10T05:31:20.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-02-06T03:24:04.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Oort_Cloud_V2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2553,
+        "last_played": "2026-11-10T07:30:53.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Otago 1.4",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1,
+        "last_played": "2023-11-16T02:57:31.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-11-15T00:45:30.000Z",
+        "last_seen": "2023-11-15T23:38:04.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Otago 1.42",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 16,
+        "last_played": "2023-11-20T20:56:06.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-11-16T08:29:34.000Z",
+        "last_seen": "2023-11-20T23:41:05.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Otago 1.43",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 3483,
+        "last_played": "2026-11-10T11:21:52.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-11-21T10:21:25.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Otago Redux 1.21",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 13,
+        "last_played": "2022-07-15T20:47:06.000Z"
+      }
+    },
+    {
+      "springname": "Otago Redux 1.33",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 353,
+        "last_played": "2023-11-14T03:30:16.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-11-14T21:07:55.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Painted Badlands 1.0",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 9,
+        "last_played": "2023-01-29T10:17:48.000Z"
+      }
+    },
+    {
+      "springname": "Painted Desert v1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 446,
+        "last_played": "2026-11-09T17:34:27.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-12-28T11:43:20.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Paradise_Lost_V4",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1246,
+        "last_played": "2026-11-09T00:55:14.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Pawn Retreat 1.0",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 41,
+        "last_played": "2023-02-16T18:49:26.000Z"
+      }
+    },
+    {
+      "springname": "Pawn Retreat 1.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 4762,
+        "last_played": "2026-11-09T20:16:34.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Pentos_V1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1319,
+        "last_played": "2026-11-09T15:47:51.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Pillar_of_Doom_V1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2196,
+        "last_played": "2026-11-09T01:43:07.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Pinch Point 1.01",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 459,
+        "last_played": "2024-08-24T04:50:17.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-02-17T20:24:26.000Z",
+        "last_seen": "2024-07-25T21:18:03.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Pinch Point 1.03",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 3045,
+        "last_played": "2026-11-10T04:21:52.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-08-24T19:20:52.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Pinewood_Derby_V1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 12743,
+        "last_played": "2026-11-10T14:04:06.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Pit of Azar 1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 20,
+        "last_played": "2024-04-29T13:25:55.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-01-13T17:35:42.000Z",
+        "last_seen": "2024-07-19T13:46:57.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Plains and Passes v1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 3303,
+        "last_played": "2026-11-09T21:03:30.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-10-07T14:36:24.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Plethora_of_Ponds_V1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 825,
+        "last_played": "2026-11-09T20:03:54.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Point of No Return v1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 7,
+        "last_played": "2023-10-04T01:58:08.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Point of No Return v1.0.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 128,
+        "last_played": "2026-11-05T02:03:33.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Pools of Ilys 0.9.11",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 926,
+        "last_played": "2025-08-06T22:51:01.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-05-05T13:03:04.000Z",
+        "last_seen": "2025-08-05T16:47:22.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Pools of Ilys 0.9.9",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 21,
+        "last_played": "2025-05-06T00:23:44.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-05-04T15:14:31.000Z",
+        "last_seen": "2025-05-04T15:14:31.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Pools of Ilys 1.1.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 3189,
+        "last_played": "2026-11-10T13:19:25.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-08-06T20:27:31.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Prismatic Anomaly v1.01",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 69,
+        "last_played": "2025-05-01T22:50:32.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-04-29T21:55:08.000Z",
+        "last_seen": "2025-04-29T21:55:08.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Prismatic Anomaly v1.02",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 3882,
+        "last_played": "2026-11-10T07:20:17.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-05-01T21:57:11.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Project SD-129 v1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 5308,
+        "last_played": "2026-11-10T14:56:16.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-03-18T18:38:19.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Proving Grounds v1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 4592,
+        "last_played": "2026-11-10T03:02:52.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2026-01-07T11:10:52.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Pyroclast 1.0.3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 281,
+        "last_played": "2026-10-02T19:40:35.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2026-09-27T18:00:10.000Z",
+        "last_seen": "2026-09-27T18:00:10.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Pyroclast 1.0.4",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 332,
+        "last_played": "2026-10-15T04:31:46.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2026-10-01T22:05:50.000Z",
+        "last_seen": "2026-10-08T20:52:54.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Pyroclast 1.0.5",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 86,
+        "last_played": "2026-10-30T13:07:48.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2026-10-14T17:18:34.000Z",
+        "last_seen": "2026-10-14T17:18:34.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Pyroclast 1.1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 55,
+        "last_played": "2026-11-10T05:58:51.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2026-10-30T15:14:36.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Quarry_V1",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 2,
+        "last_played": "2022-07-13T17:02:25.000Z"
+      }
+    },
+    {
+      "springname": "Quicksilver Remake 1.24",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 7623,
+        "last_played": "2026-11-10T12:11:05.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Raptor_Crater_V2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1422,
+        "last_played": "2026-11-09T08:42:32.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-11-06T19:30:01.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Ravaged Remake v1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 358,
+        "last_played": "2023-04-18T04:37:26.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-04-30T19:11:24.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Ravaged Remake v1.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 6189,
+        "last_played": "2026-11-09T17:11:39.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-05-10T19:57:03.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Ravaged_v2",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 320,
+        "last_played": "2023-04-06T17:49:11.000Z"
+      }
+    },
+    {
+      "springname": "ReRaghnarok 1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 89,
+        "last_played": "2023-12-02T09:51:45.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "ReRaghnarok 1.0.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 327,
+        "last_played": "2026-11-08T20:40:35.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Red Comet Remake 1.8",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 11549,
+        "last_played": "2026-11-10T10:00:10.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Red River Estuary v1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 28,
+        "last_played": "2023-07-11T21:16:23.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-07-09T20:07:45.000Z",
+        "last_seen": "2023-07-09T20:07:45.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Red River Estuary v1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1836,
+        "last_played": "2026-11-09T20:02:29.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-07-11T18:13:09.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Red River Remake v1.1",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 12,
+        "last_played": "2023-02-20T01:07:35.000Z"
+      }
+    },
+    {
+      "springname": "Red River Remake v1.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1579,
+        "last_played": "2026-11-10T01:36:57.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Red Rock Desert v1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 427,
+        "last_played": "2023-12-05T19:09:46.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Red Rock Desert v1.0.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 114,
+        "last_played": "2024-03-10T14:08:16.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2024-03-02T16:10:47.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Red Rock Desert v2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2611,
+        "last_played": "2026-11-10T14:26:13.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-03-10T14:19:29.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Red Triangle Remake v1.2",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 32,
+        "last_played": "2023-02-18T20:13:44.000Z"
+      }
+    },
+    {
+      "springname": "Red Triangle Remake v1.3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1179,
+        "last_played": "2026-11-10T01:34:26.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Requiem Outpost 1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 63,
+        "last_played": "2023-12-03T20:55:20.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Requiem Outpost 1.0.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1272,
+        "last_played": "2026-11-10T10:29:53.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Rifted_V2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 3726,
+        "last_played": "2026-11-10T15:37:13.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Ring Atoll Remake v2.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 540,
+        "last_played": "2026-11-09T22:42:14.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-05-28T10:45:08.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Ring_Atoll_Remake_V1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 37,
+        "last_played": "2023-05-25T17:09:49.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-05-26T09:51:11.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Riverdale Remake 2.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1249,
+        "last_played": "2026-11-10T02:19:19.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Riverrun_V1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 5253,
+        "last_played": "2026-11-09T21:22:32.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Rosetta 1.2",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 5,
+        "last_played": "2022-06-05T15:56:21.000Z"
+      }
+    },
+    {
+      "springname": "Rosetta 1.3",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 217,
+        "last_played": "2023-01-25T17:12:10.000Z"
+      }
+    },
+    {
+      "springname": "Rosetta 1.4",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2254,
+        "last_played": "2023-11-22T04:17:56.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-11-20T23:41:05.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Rosetta 1.4.4",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 9432,
+        "last_played": "2026-11-10T15:15:56.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-02-15T01:33:53.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Rosetta 1.42",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2448,
+        "last_played": "2025-02-15T13:48:34.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-11-21T10:21:25.000Z",
+        "last_seen": "2025-02-14T23:29:22.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Rustcrown Canyon 1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 141,
+        "last_played": "2023-06-14T23:40:23.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-06-20T13:35:41.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Rustcrown Canyon 1.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 223,
+        "last_played": "2024-09-03T06:45:38.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-06-20T20:41:55.000Z",
+        "last_seen": "2024-09-01T19:32:08.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Rustcrown Canyon 1.3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1205,
+        "last_played": "2026-11-07T02:12:30.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-09-03T22:38:15.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "SailAway 2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 635,
+        "last_played": "2026-11-10T13:33:33.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2026-06-23T18:41:01.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Salmiakki 1.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 812,
+        "last_played": "2024-11-17T23:19:51.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-10-17T08:56:20.000Z",
+        "last_seen": "2024-11-15T15:18:18.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Salmiakki 1.3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2834,
+        "last_played": "2026-11-10T13:14:40.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-11-16T08:48:22.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Salt Reef 1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 15,
+        "last_played": "2024-04-15T04:45:08.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-04-06T22:03:01.000Z",
+        "last_seen": "2024-04-14T20:35:47.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Salt Reef 1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 3145,
+        "last_played": "2026-11-10T03:54:03.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-04-14T20:36:15.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Salt Reef v0.9",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 271,
+        "last_played": "2024-04-07T02:07:34.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-02-06T10:32:10.000Z",
+        "last_seen": "2024-04-06T09:37:00.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Sand Crowns 1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 991,
+        "last_played": "2026-11-10T14:43:43.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-05-03T16:10:25.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "SapphireShores_V2.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 32,
+        "last_played": "2023-06-07T13:13:35.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-06-17T17:58:23.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Scylla and Charybdis 0.9",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 33,
+        "last_played": "2023-11-01T12:00:05.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-10-29T11:19:38.000Z",
+        "last_seen": "2023-10-29T11:19:38.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Scylla and Charybdis 1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 88,
+        "last_played": "2023-12-10T11:11:27.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-11-01T11:35:17.000Z",
+        "last_seen": "2023-12-08T16:48:41.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Scylla and Charybdis 1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1131,
+        "last_played": "2026-11-10T14:31:03.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-09T18:51:05.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Sector 318C v1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 3088,
+        "last_played": "2026-11-10T06:22:37.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-08-08T14:26:23.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Serene Caldera v1.0",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 9,
+        "last_played": "2022-08-13T22:03:06.000Z"
+      }
+    },
+    {
+      "springname": "Serene Caldera v1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 69,
+        "last_played": "2023-05-28T18:11:18.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-05-30T08:23:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Serene Caldera v1.3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1124,
+        "last_played": "2026-11-10T05:35:20.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-05-30T10:36:17.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Sertagatta v6.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 544,
+        "last_played": "2023-11-30T10:45:15.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-05-16T22:35:45.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Sertagatta v6.0.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 4304,
+        "last_played": "2026-11-10T06:34:10.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Sertagatta_V5",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 227,
+        "last_played": "2023-05-14T06:45:08.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-05-16T22:26:47.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Sertaleina_V8",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 202,
+        "last_played": "2023-05-11T01:38:30.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-05-16T22:26:47.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Sertaleina_v9.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 44,
+        "last_played": "2023-05-30T00:10:32.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-05-19T09:41:11.000Z",
+        "last_seen": "2023-05-28T10:45:08.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Sertaleina_v9.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 62,
+        "last_played": "2023-06-14T15:26:41.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-05-30T08:23:14.000Z",
+        "last_seen": "2023-05-31T15:16:32.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Sertaleina_v9.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 3774,
+        "last_played": "2026-11-10T01:31:18.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-06-05T19:45:24.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Seths Ravine Remake 1.3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 307,
+        "last_played": "2023-12-05T22:49:28.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Seths Ravine Remake 1.3.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2110,
+        "last_played": "2026-11-10T13:17:08.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Seven Rivers v1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1,
+        "last_played": "2023-11-25T13:17:02.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-11-25T12:47:34.000Z",
+        "last_seen": "2023-11-25T12:47:34.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Seven Rivers v1.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 8,
+        "last_played": "2023-11-26T05:36:10.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-11-25T14:49:39.000Z",
+        "last_seen": "2023-11-25T18:15:39.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Seven Rivers v1.21",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2376,
+        "last_played": "2026-11-10T14:59:30.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-11-26T07:51:15.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Shallow Straits v1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 273,
+        "last_played": "2023-12-03T21:45:08.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Shallow Straits v1.0.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2184,
+        "last_played": "2026-11-09T15:41:48.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Shore_to_Shore_V3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 4336,
+        "last_played": "2026-11-10T09:09:24.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Silent Sea v1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 215,
+        "last_played": "2023-12-04T21:09:57.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T13:09:14.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Silent Sea v1.0.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1078,
+        "last_played": "2026-11-09T19:45:54.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T23:04:00.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Silveridge v1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 345,
+        "last_played": "2023-12-05T17:12:50.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T23:04:00.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Silveridge v1.0.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2194,
+        "last_played": "2026-11-09T16:02:16.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-06T00:11:31.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Sinkhole Network v1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 16,
+        "last_played": "2023-11-16T04:12:27.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-11-11T16:46:53.000Z",
+        "last_seen": "2023-11-16T22:10:47.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Sinkhole Network v1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 384,
+        "last_played": "2026-11-09T07:25:40.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-11-17T15:50:54.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Sky Isle v1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 115,
+        "last_played": "2023-11-27T20:35:33.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T23:04:00.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Sky Isle v1.1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 990,
+        "last_played": "2026-11-09T22:05:02.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-06T00:11:31.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Small_Supreme_Battlefield_V3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 3580,
+        "last_played": "2026-11-09T21:11:26.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Special Creek 1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2104,
+        "last_played": "2026-11-10T05:41:49.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-06-24T11:17:22.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Special Hotstepper 0.9",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 5,
+        "last_played": "2025-06-27T21:43:04.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-06-26T21:41:47.000Z",
+        "last_seen": "2025-06-27T20:36:55.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Special Hotstepper 1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 25,
+        "last_played": "2025-08-01T02:43:34.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-06-28T07:33:51.000Z",
+        "last_seen": "2025-07-09T20:52:31.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Special Hotstepper 1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 8,
+        "last_played": "2025-08-12T05:36:06.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-08-05T16:47:22.000Z",
+        "last_seen": "2025-08-06T20:27:31.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Special Hotstepper 1.1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 574,
+        "last_played": "2026-11-10T05:09:29.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-08-12T22:33:42.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Special Reef 1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1431,
+        "last_played": "2026-11-10T11:26:42.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-02-01T16:12:03.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "SpeedMetal BAR V2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 16570,
+        "last_played": "2026-11-10T14:14:06.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Sphagnum Bog v1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 84,
+        "last_played": "2023-10-17T22:06:30.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-05-10T19:57:03.000Z",
+        "last_seen": "2023-10-17T08:56:20.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Sphagnum Bog v1.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 9,
+        "last_played": "2023-12-01T14:49:13.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-10-17T08:56:31.000Z",
+        "last_seen": "2023-12-05T23:04:00.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Sphagnum Bog v1.2.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1079,
+        "last_played": "2026-11-08T23:37:03.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-06T00:11:31.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Starwatcher 0.7",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 103,
+        "last_played": "2023-06-09T12:33:40.000Z"
+      }
+    },
+    {
+      "springname": "Starwatcher 0.9",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1458,
+        "last_played": "2023-05-31T21:07:08.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-05-31T09:57:45.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Starwatcher 1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 5830,
+        "last_played": "2026-11-10T15:22:23.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-05-31T15:16:32.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Stronghold V4",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 505,
+        "last_played": "2024-06-11T00:12:09.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2024-06-07T21:45:02.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Stronghold v5.0.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2745,
+        "last_played": "2026-11-10T14:19:15.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-06-10T10:36:11.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Sulphur Springs v1.0",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 37,
+        "last_played": "2023-04-08T21:53:41.000Z"
+      }
+    },
+    {
+      "springname": "Sulphur Springs v1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2762,
+        "last_played": "2026-11-09T20:31:50.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-05-10T19:57:03.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Sunderance V1.2",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 1,
+        "last_played": "2022-06-02T02:20:03.000Z"
+      }
+    },
+    {
+      "springname": "Sunderance V1.3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 4567,
+        "last_played": "2026-11-10T15:29:54.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Supreme Isthmus Winter v1.8.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 271,
+        "last_played": "2024-12-06T18:51:36.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-12-03T19:10:50.000Z",
+        "last_seen": "2024-12-03T19:10:50.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Supreme Isthmus Winter v1.8.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 14924,
+        "last_played": "2025-03-24T04:51:15.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-12-05T19:16:13.000Z",
+        "last_seen": "2025-03-22T00:03:23.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Supreme Isthmus v1.5",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2507,
+        "last_played": "2023-10-19T13:19:25.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-09-30T20:32:30.000Z",
+        "last_seen": "2023-10-17T08:56:31.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Supreme Isthmus v1.6.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1197,
+        "last_played": "2023-10-27T14:45:25.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-10-19T09:31:11.000Z",
+        "last_seen": "2023-10-26T17:57:46.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Supreme Isthmus v1.6.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 5786,
+        "last_played": "2023-12-05T22:20:02.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-10-27T08:19:30.000Z",
+        "last_seen": "2023-12-05T13:07:41.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Supreme Isthmus v1.6.3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 14649,
+        "last_played": "2024-03-16T17:06:11.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-05T13:09:14.000Z",
+        "last_seen": "2024-03-16T10:15:22.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Supreme Isthmus v1.6.4",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 4730,
+        "last_played": "2024-04-17T04:24:04.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-03-16T10:16:36.000Z",
+        "last_seen": "2024-04-16T17:05:24.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Supreme Isthmus v1.6.5",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1277,
+        "last_played": "2024-04-27T00:30:29.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-04-16T19:08:22.000Z",
+        "last_seen": "2024-04-25T22:21:57.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Supreme Isthmus v1.7",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 11322,
+        "last_played": "2026-11-10T06:22:08.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-04-26T20:23:36.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Supreme Isthmus v1.8",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 21477,
+        "last_played": "2024-12-04T18:35:32.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-07-09T21:47:26.000Z",
+        "last_seen": "2024-12-03T09:40:12.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Supreme Isthmus v2.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 3622,
+        "last_played": "2025-04-11T16:41:50.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-03-23T10:13:32.000Z",
+        "last_seen": "2025-04-04T05:53:42.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Supreme Isthmus v2.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 223898,
+        "last_played": "2026-11-10T15:53:11.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-04-10T21:21:29.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Supreme Strait v1.1",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 83,
+        "last_played": "2023-01-25T19:35:52.000Z"
+      }
+    },
+    {
+      "springname": "Supreme Strait v1.2",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 1,
+        "last_played": "2023-01-21T09:41:59.000Z"
+      }
+    },
+    {
+      "springname": "Supreme Strait v1.3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 768,
+        "last_played": "2023-04-13T03:25:10.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-04-30T19:11:24.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Supreme Strait v1.4",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 30182,
+        "last_played": "2023-10-01T04:39:27.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-05-10T19:57:03.000Z",
+        "last_seen": "2023-09-28T23:01:04.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Supreme Strait v1.41",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 357,
+        "last_played": "2023-12-02T10:39:50.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-10-01T12:34:49.000Z",
+        "last_seen": "2023-12-02T13:49:21.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Supreme_Crossing 2.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 745,
+        "last_played": "2025-11-18T14:57:06.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2025-11-12T21:11:56.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Supreme_Crossing 2.2.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1250,
+        "last_played": "2026-11-10T00:17:32.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-11-18T17:49:12.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Supreme_Crossing_V1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 962,
+        "last_played": "2025-12-11T01:22:05.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Swirly Rock v1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 51,
+        "last_played": "2023-07-26T22:35:53.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-07-24T18:23:57.000Z",
+        "last_seen": "2023-07-24T18:24:10.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Swirly Rock v1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 4305,
+        "last_played": "2026-11-10T05:50:12.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-07-26T22:36:50.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "TMA20X 1.8",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 629,
+        "last_played": "2026-11-05T04:27:01.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Tabula_Flooded_v04",
+      "sources": [
+        "maps-metadata"
+      ],
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-06-17T17:58:23.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Tabula_Remake 1.5",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 3515,
+        "last_played": "2026-05-11T03:05:02.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-04-29T20:40:29.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Tabula_Remake 1.5.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 751,
+        "last_played": "2026-11-10T01:50:01.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2026-05-10T20:20:44.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Taldarim_V3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2363,
+        "last_played": "2026-11-09T20:06:25.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Talus-wet-v3",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 2,
+        "last_played": "2022-06-25T21:29:39.000Z"
+      }
+    },
+    {
+      "springname": "Talus_v2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1490,
+        "last_played": "2026-11-10T10:51:55.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Tangerine_Remake 1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 4193,
+        "last_played": "2026-11-10T07:11:17.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Tau12",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1214,
+        "last_played": "2026-11-09T21:26:07.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Tempest_V3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2655,
+        "last_played": "2026-11-09T20:46:25.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Tetrad_V2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1368,
+        "last_played": "2026-11-10T10:35:33.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "The BARrier Reef Remake v1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 903,
+        "last_played": "2026-11-05T14:46:59.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-07-19T16:20:22.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "The Cold Place BAR v1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 4092,
+        "last_played": "2026-11-10T12:24:06.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "The Desert Triad Remake v1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 916,
+        "last_played": "2026-11-09T00:11:25.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-04-01T21:05:11.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "The Ditch Remake 0.5",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 314,
+        "last_played": "2023-12-10T19:16:58.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-11-19T17:59:43.000Z",
+        "last_seen": "2023-12-09T18:51:05.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "The Halite Maze v1.2",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 14,
+        "last_played": "2023-02-10T13:02:35.000Z"
+      }
+    },
+    {
+      "springname": "The Halite Maze v1.3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 35,
+        "last_played": "2023-04-17T14:21:01.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-04-30T19:11:24.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "The Halite Maze v1.4",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1430,
+        "last_played": "2026-11-10T13:32:15.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-05-10T19:57:03.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "The Rock 3.0.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2097,
+        "last_played": "2026-11-09T23:22:23.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-01-14T17:49:12.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "The Rock Jungle 2.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 563,
+        "last_played": "2024-09-04T11:27:37.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-03-02T16:10:47.000Z",
+        "last_seen": "2024-09-03T22:38:15.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "The Rock Jungle 2.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1417,
+        "last_played": "2026-01-11T20:51:28.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-09-03T22:38:27.000Z",
+        "last_seen": "2026-01-11T02:45:18.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "The Rock Jungle 2.1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1282,
+        "last_played": "2026-11-10T14:41:54.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2026-01-11T02:50:47.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "The Tartar Steppe v1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 131,
+        "last_played": "2024-06-04T03:10:54.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-05-17T20:15:15.000Z",
+        "last_seen": "2024-06-01T18:00:47.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "The Tartar Steppe v1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 4914,
+        "last_played": "2026-11-10T13:10:07.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-06-02T18:57:13.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "TheRock_V3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 849,
+        "last_played": "2025-01-13T00:08:03.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2025-01-14T07:15:08.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Thermal Shock v1.0",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 64,
+        "last_played": "2023-04-27T20:26:52.000Z"
+      }
+    },
+    {
+      "springname": "Thermal Shock v1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2756,
+        "last_played": "2026-11-09T15:37:49.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-30T19:11:24.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Theta Crystals 0.8",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 51,
+        "last_played": "2023-03-04T07:44:55.000Z"
+      }
+    },
+    {
+      "springname": "Theta Crystals 1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2975,
+        "last_played": "2024-05-06T00:34:46.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2024-05-04T17:32:06.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Theta Crystals 1.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 47,
+        "last_played": "2024-05-09T11:57:00.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-05-05T14:54:47.000Z",
+        "last_seen": "2024-05-05T20:01:48.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Theta Crystals 1.3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 8041,
+        "last_played": "2026-11-10T06:50:01.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-05-08T15:29:39.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Throne_V8",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1775,
+        "last_played": "2026-11-10T10:17:56.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Timna Island 1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 74,
+        "last_played": "2023-12-01T21:33:14.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T23:04:00.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Timna Island 1.0.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 891,
+        "last_played": "2026-11-06T18:27:49.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-06T00:11:31.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Titan v3.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1838,
+        "last_played": "2026-11-09T20:08:27.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "TitanDuel",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 13,
+        "last_played": "2023-02-16T02:33:44.000Z"
+      }
+    },
+    {
+      "springname": "TitanDuel_V3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 6338,
+        "last_played": "2026-11-09T15:05:34.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "To Kill The Middle v1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 514,
+        "last_played": "2025-03-14T20:08:33.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-06-28T11:08:58.000Z",
+        "last_seen": "2025-02-19T22:08:57.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "To Kill The Middle v1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 649,
+        "last_played": "2026-11-10T04:37:41.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-03-16T18:44:24.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Trefoil Remake 2.20",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 3049,
+        "last_played": "2026-11-10T02:52:12.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Tropical Assault v3.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2714,
+        "last_played": "2026-11-10T15:10:05.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-05-26T09:51:11.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Tropical-v2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 175,
+        "last_played": "2023-05-23T02:31:14.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-05-24T10:10:40.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Tumult",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 7,
+        "last_played": "2022-06-22T21:10:30.000Z"
+      }
+    },
+    {
+      "springname": "Tumult Remake v1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 208,
+        "last_played": "2023-12-03T18:04:27.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T23:04:00.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Tumult Remake v1.0.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 924,
+        "last_played": "2026-11-09T02:57:35.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-06T00:11:31.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Tundra Continents v2.3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 138,
+        "last_played": "2023-12-02T02:48:20.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T23:04:00.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Tundra Continents v2.3.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 744,
+        "last_played": "2026-11-08T09:09:41.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-06T00:11:31.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Tundra_V2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 5237,
+        "last_played": "2026-11-10T12:49:34.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Twin Lakes Park Redux 1.1",
+      "sources": [
+        "replay"
+      ],
+      "replay": {
+        "matches": 43,
+        "last_played": "2023-01-21T23:34:36.000Z"
+      }
+    },
+    {
+      "springname": "Twin Lakes Park Redux 1.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 717,
+        "last_played": "2023-11-21T05:20:11.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-11-20T23:41:05.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Twin Lakes Park Redux 1.2.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2500,
+        "last_played": "2026-11-09T04:18:10.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-02-13T23:57:27.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Twin Lakes Park Redux 1.21",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 673,
+        "last_played": "2025-02-14T03:15:40.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-11-21T10:21:25.000Z",
+        "last_seen": "2025-02-09T15:58:39.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Valles Marineris 2.6",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 617,
+        "last_played": "2023-12-05T20:51:58.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T23:04:00.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Valles Marineris 2.6.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2066,
+        "last_played": "2026-11-10T14:50:37.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-06T00:11:31.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Vittra 3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 423,
+        "last_played": "2026-06-15T20:26:08.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2026-06-09T19:44:42.000Z",
+        "last_seen": "2026-06-09T21:05:21.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Vittra 3.0.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1253,
+        "last_played": "2026-11-10T01:10:14.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2026-06-15T19:44:19.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Wanderlust 2.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 787,
+        "last_played": "2024-09-03T22:26:54.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-03-13T18:35:26.000Z",
+        "last_seen": "2024-09-03T22:38:27.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Wanderlust 2.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2714,
+        "last_played": "2026-11-10T07:39:08.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-09-03T22:38:41.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "White Fire Remake 0.9",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 10,
+        "last_played": "2023-06-20T03:44:58.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-06-19T16:15:02.000Z",
+        "last_seen": "2023-06-19T16:58:58.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "White Fire Remake 1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 8,
+        "last_played": "2023-06-23T17:47:11.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-06-20T13:35:41.000Z",
+        "last_seen": "2023-06-20T21:41:58.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "White Fire Remake 1.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 14,
+        "last_played": "2023-06-27T17:18:11.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-06-22T15:05:36.000Z",
+        "last_seen": "2023-06-23T11:51:37.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "White Fire Remake 1.2",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 39,
+        "last_played": "2023-07-02T08:48:33.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-06-27T16:00:02.000Z",
+        "last_seen": "2023-07-01T08:29:15.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "White Fire Remake 1.3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 5296,
+        "last_played": "2026-11-10T06:10:09.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-07-02T08:46:09.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Why did I let PtaQ talk me into this 1.0",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1451,
+        "last_played": "2026-11-10T02:06:33.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2025-02-01T16:12:27.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "World In Flames v1.5",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 32,
+        "last_played": "2024-04-09T00:21:29.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-04-06T09:37:00.000Z",
+        "last_seen": "2024-04-06T22:03:11.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "World In Flames v1.6",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 15,
+        "last_played": "2024-04-09T00:38:24.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-04-08T00:39:21.000Z",
+        "last_seen": "2024-04-08T03:35:30.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "World In Flames v1.7",
+      "sources": [
+        "maps-metadata"
+      ],
+      "maps_metadata": {
+        "first_seen": "2024-04-09T02:37:44.000Z",
+        "last_seen": "2024-04-09T02:37:44.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "World In Flames v1.8",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1796,
+        "last_played": "2026-11-08T18:39:00.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2024-04-09T03:43:33.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    },
+    {
+      "springname": "Zed Remake 3.3",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 1073,
+        "last_played": "2023-12-06T04:25:36.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-04-08T22:14:28.000Z",
+        "last_seen": "2023-12-05T23:04:00.000Z",
+        "in_current": false
+      }
+    },
+    {
+      "springname": "Zed Remake 3.3.1",
+      "sources": [
+        "maps-metadata",
+        "replay"
+      ],
+      "replay": {
+        "matches": 2787,
+        "last_played": "2026-11-09T15:01:10.000Z"
+      },
+      "maps_metadata": {
+        "first_seen": "2023-12-06T00:11:31.000Z",
+        "last_seen": "2026-11-06T05:14:15.000Z",
+        "in_current": true
+      }
+    }
+  ]
+}
